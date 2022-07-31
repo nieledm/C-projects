@@ -1,0 +1,50 @@
+#Vending Machine
+
+A company has built a machine capable of automating the sale of basic food items.
+basic, ie, the consumer selects the desired product, inserts the money into the machine and
+receives the product and the change if any.
+The computer program should simulate the operation of the machine in two modes,
+namely:
+(a) User Mode: where the products stored in the machine are listed with their respective
+the user can choose which product he wants to buy, and then inform the value entered
+the value entered in the machine. After processing, if the product is available, the user
+the user "withdraws" the product, as well as his change, which is informed to the user.
+(b) Administrator Mode: where it is possible to manage the machine by replacing missing products, list
+inventory of products and their respective quantities and list how much the machine has
+invoiced and can still invoice.
+
+
+#1. You have a road connecting several cities. Each town has its own mile marker. Make a program that:
+- read several pairs of data, containing each pair of milepost values, in ascending order, of two cities. The last pair contains these two equal values.
+- Calculate the elapsed times to travel the distance between these two cities, with the following speeds: 20, 30, 40, 50, 60, 70 and 80 km/h, knowing that:
+T=e/v
+t = time, e = space and v = velocity.
+
+#2. The professor of the subject of Computer Programming wants to know, from the final grades of each student:
+(a) the highest grade
+b) The lowest score
+c) The difference between the highest and lowest grade
+d) The arithmetic mean of the grades
+Make a program that delivers this information to the professor in question.
+
+#3. Make a program that reads three integers and presents them in descending order.
+
+#4. You have 25 sets of values, where each set consists of a student's number, the provisional grade of his practical work, and the date it was handed in. Make a program to:
+a) Calculate and print the final grade for each student, knowing that the work delivered:
+- until 04/20, final grade = provisional grade + 10 points;
+- until 05/02, final grade = provisional grade
+- until 05/30, final grade = provisional grade/2;
+- until 06/30, final grade = 0.
+b) Calculate the average and the deviation of the provisional and final grades.
+
+#5. The number 3025 has the following characteristic:
+
+30 + 25 = 55
+55 squared = 3025
+Make a program that determines all 4-digit numbers with this characteristic.
+
+#6. Make a program that can help draw numbers for a certain raffle, such program should draw numbers between 1000 and 10000 as long as the user wants.
+
+#7. A music production company wants to plan a series of rock'n roll concerts. Management estimates that at $5.00, 120 tickets will be sold, and expenses will be fixed at $200. At a $0.50 reduction in ticket prices there is expected to be an increase of 26 tickets sold. Make a program that writes a table of values of the expected profit as a function of ticket price, varying the price from $5.00 to $1.00 from $0.50 to $0.50. Also write the maximum profit expected by the number of tickets.
+
+#8. Make a program that reads two numbers in ascending order, and determine how many numbers that are between them are prime.

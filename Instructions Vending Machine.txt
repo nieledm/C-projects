@@ -1,0 +1,25 @@
+# ADMINISTRATOR MODE:
+
+######For the administrator to print the Vending Machine data/results enter password 789654 when the machine is prompting "Enter the value entered".
+The printed data/results will be
+* Purchase value of each product;
+* Sale value of each product;
+* List of all products sold and their quantities;
+* List of all products remaining in the equipment and their quantities;
+* Total value of money in the equipment;
+Profit from the sales of products in the machine;
+* The total value of products, at cost price, remaining in the equipment;
+* Estimated total profit when selling all products left in the equipment.
+If we enter the password 789654 twice, it will terminate the program. If we enter it only once, it will not terminate, but rather enter the Administrator mode;
+Whenever we want to change some information, we have to enter the Administrator mode, and, within this mode, follow the steps given on the screen, such as "to change some information, press 1 [one]", and the other information detailed during the process;
+If you want to start selling soon after changing some product information, you must press 1 [one], because the 0 [zero] key will reset all the information, including purchase and sales prices, quantities in stock, and quantities sold.
+
+
+#USER MODE:
+######Always at startup, the value 0 will be entered, as a check format that we are within user mode.
+At the beginning of the purchase the user must always inform the value entered in the equipment when requested. At the end of each purchase will be printed to the user:
+* The option and product chosen
+* The value of the chosen option
+* The total value of the user's purchase
+* The total amount of the change
+If the user wants to close the purchase and receive the change the user must press the number 1 (one), if the user wants to continue buying with the initial value of deposit the user must press the number 0 (zero), but if there is not enough money the purchase will be closed and the change delivered.
